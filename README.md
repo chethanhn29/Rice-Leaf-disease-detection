@@ -1,6 +1,6 @@
 # Rice Leaf Disease Detection Using CNN 
-
-For this project,  we are going to detect rice leaf disease by image and serve the result via messenger chatbot. We will also implement this to an independent Android APP.
+## Objective
+To detect rice leaf disease by image and serve the result via messenger chatbot. We will also implement this to an independent Android APP.
 
 
 ---
