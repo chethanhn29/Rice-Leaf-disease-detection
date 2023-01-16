@@ -6,7 +6,7 @@ To detect rice leaf disease by image and serve the result via messenger chatbot.
 ---
 
 
-### We have deviced the project into multiple steps
+### We have devided the project into multiple steps
 
 
 *   Importing Libraries
