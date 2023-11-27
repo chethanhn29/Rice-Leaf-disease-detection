@@ -25,7 +25,7 @@ The project workflow is divided into key stages:
 ### Project Images
 ![Rice Leaf Disease Detection](https://www.mdpi.com/agronomy/agronomy-13-00961/article_deploy/html/images/agronomy-13-00961-g001.png)
 
-### Libraies
+### Tags
 - Image Classification
 - CNN
 - TensorFlow
